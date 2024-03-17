@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "lib": ["es5", "dom"], // Add "dom" to include DOM types
+    "lib": ["es5", "dom"], 
     "outDir": "./dist",
     "strict": true
   }

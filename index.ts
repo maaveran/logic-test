@@ -84,6 +84,7 @@ class Logic {
 
 const logic = new Logic()
 
+
 //console.log(logic.questionNumberOne(2))
 //console.log(logic.questionNumberTwo([11, 6, 31, 201, 99, 861, 1, 7, 14, 79]))
 //console.log(logic.questionNumberThree(8))
